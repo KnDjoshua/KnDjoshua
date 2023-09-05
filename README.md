@@ -43,9 +43,15 @@
   <a href="https://m.facebook.com/KnDjoshua/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+256760447637?text=I'm%20KnDjoshua%20,Lets%20discuss%20here%20🥷%20sale" target="_blank">
+  <a href="https://wa.me/+256760447637?text=Hello 👋%20KnDjoshua%20🥷%20sale" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kndjoshua /kndjoshua /output/snake.svg" alt="Snake animation" />
 
 ###
