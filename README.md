@@ -32,7 +32,7 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/kndjoshua-🥷-459a74196" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/kndjoshua-%F0%9F%A5%B7-459a74196/)" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/kn_djoshua?lang=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
